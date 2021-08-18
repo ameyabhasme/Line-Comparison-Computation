@@ -1,4 +1,4 @@
-package com.bridgelabz.LineComparisonComputation;
+package com.bridgelabz.linecomparisoncomputation;
 
 public class LineComparison {
 	int x1, x2, y1, y2;
